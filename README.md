@@ -4,6 +4,8 @@
 
 ---
 
-All this projects aren't mine, as these projects are only for BroCode.
+NOTE: This repository isn't for profit, plus, this repository is dedicated to 
+reserving all projects in BroCodes channel (Side-note: I don't have any
+correlation to BroCode whatsoever)
 
-Feel free to copy down any notes, codes, or anything.
+Feel free to copy down any notes, codes, or anything!
